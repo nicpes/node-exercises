@@ -1,0 +1,22 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es-1-sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicpes/node-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicpes/node-exercises/issues"
+  },
+  "homepage": "https://github.com/nicpes/node-exercises#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
